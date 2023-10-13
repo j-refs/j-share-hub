@@ -1,0 +1,8 @@
+{
+  "name": "j-share-hub",
+  "version": "1.0.0",
+  "main": "launch-hub.js",
+  "repository": "https://github.com/j-refs/j-share-hub",
+  "author": "j-refs <fukyoug00g13gimemuny@gmail.com>",
+  "license": "MIT"
+}
